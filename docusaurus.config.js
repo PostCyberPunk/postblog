@@ -72,7 +72,7 @@ const config = {
           src: "img/logo.svg",
         },
         items: [
-          { to: "/blog", label: "Blog", position: "left" },
+          { to: "/docs/intro", label: "Blog", position: "left" },
           {
             href: "https://github.com/postcyberpunk",
             label: "GitHub",
@@ -88,7 +88,7 @@ const config = {
             items: [
               {
                 label: "Blog",
-                to: "/blog",
+                to: "/docs/intro",
               },
               {
                 label: "GitHub",
